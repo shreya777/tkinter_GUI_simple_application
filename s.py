@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 
-root.title("Welcome to GeekForGeeks")
+root.title(" Dempnstration of GUI Through Tkinter module ")
 
 root.geometry('350x200')
  
@@ -30,3 +30,4 @@ btn = Button(root, text = "Click me" ,
 btn.grid(column=2, row=0)
 
 root.mainloop()
+
